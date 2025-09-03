@@ -6,6 +6,8 @@ The program was created for end to end integration with Visual Studio Code and G
 
 # Development Environment
 
-Python - Visual Studio Code
+Python - Visual Studio Code - Windows 11
 
 # Useful Websites
+
+Python Documentation - https://docs.python.org/3/
